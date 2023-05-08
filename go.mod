@@ -1,3 +1,3 @@
-module github.com/wadey/go-diff-mod/v2
+module github.com/YIDWang/go-diff-mod
 
-go 1.13
+go 1.20
